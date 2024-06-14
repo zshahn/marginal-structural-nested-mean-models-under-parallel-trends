@@ -5,4 +5,6 @@ This repository contains code for the simulation and real data application from 
 
 sim_t1.R contains simulation code for the point exposure setting from Section 5.1.
 
+marginal_snmm_simulation_t2 (1).R contains code from the two time point simulation in Section 5.2.
+
 
